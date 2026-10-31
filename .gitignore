@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+
+# Python Virtual Environment & Caches
+*.pyc
+*.pyo
+
+# Environment Variables & Secrets
+.env
+
+# Docker / Local data volumes
+postgres_data/
+pgdata/
